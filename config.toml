@@ -1,0 +1,14 @@
+baseURL = "http://zonneklaar-consulting.com/"
+languageCode = "en-us"
+title = "Zonneklaar Consulting"
+theme = "ananke"
+disable_share = true
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = -110
