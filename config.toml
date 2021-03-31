@@ -7,6 +7,13 @@ disable_share = true
 [menu]
 
   [[menu.main]]
+    identifier = "contact"
+    name = "contact"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/contact/"
+    weight = -100
+
+  [[menu.main]]
     identifier = "about"
     name = "about"
     pre = "<i class='fa fa-heart'></i>"
