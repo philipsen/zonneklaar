@@ -1,4 +1,4 @@
-baseURL = "http://zonneklaar-consulting.com/"
+baseURL = "https://www.zonneklaar-consulting.com/"
 languageCode = "en-us"
 title = "Zonneklaar Consulting"
 theme = "ananke"
